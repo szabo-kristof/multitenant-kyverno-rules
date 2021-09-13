@@ -1,6 +1,6 @@
 # Multitenant Kyverno policies
 
-This Helm chart deploys Kyverno policies defined for Multitenant Clusters. 
+This Helm chart deploys Kyverno policies defined for multitenant Kubernetes clusters. 
 
 
 ## Policies
